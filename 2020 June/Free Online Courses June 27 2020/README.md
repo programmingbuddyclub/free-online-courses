@@ -2,6 +2,15 @@ Free Coupons for Today - Follow our Facebook Page and never miss a deal!
 
 [Check out our website for regular updates](https://www.programmingbuddy.club/)
 
+<p align="center">
+  <br>
+  <a href="https://bit.ly/FreeOnlineCoursesGithub" target="_blank" title="Programming Buddy Club Free Online Courses">
+    <img src="https://i.imgur.com/aE2TLHF.png" alt="Programming Buddy Club Free Online Courses">
+  </a>
+  <br>
+  <br>
+</p>
+
 [Acing Project Management| Programming Buddy Club | Free Udemy Course](https://www.programmingbuddy.club/2020/06/acing-project-management-programming.html)
 
 [Become a Product Manager: Learn Skills by Training for the Job| Programming Buddy Club | Free Udemy Course](https://www.programmingbuddy.club/2020/05/become-product-manager-learn-skills-by.html)
@@ -205,3 +214,5 @@ Free Coupons for Today - Follow our Facebook Page and never miss a deal!
 Come Join the Programming Buddy Club!
 
 Happy Learning!
+
+[programmingbuddyclub]: https://bit.ly/FreeOnlineCoursesGithub "Programming Buddy Club Free Online Courses"
