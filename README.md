@@ -1,4 +1,4 @@
-For Free Online courses - [Udemy][udemy-link], [Eduonix]:[eduonix-link], [LinkedIn Learning][linkedin-learning], [Skillshare][skilshare-link]
+For Free Online courses - [Udemy][udemy-link], [Eduonix][eduonix-link], [LinkedIn Learning][linkedin-learning], [Skillshare][skilshare-link]
 
 Check out today's coupons here or our website [Programming Buddy Club][programmingbuddyclub]
 
@@ -6,7 +6,7 @@ Check out today's coupons here or our website [Programming Buddy Club][programmi
 
 # Current Offers:
 
-## LinkedIn Learning
+## Udemy Offers
 
 ### New customer offer! Top courses from \$12.99 when you first visit Udemy
 
@@ -20,7 +20,7 @@ Region: Global (Exc: Japan)
 Start Date: 07/03/2020
 End Date: 07/03/2020
 Region: Global (Exclude: Australia, Canada, France, Germany, Japan, Spain, UK, US)
-![udemy-current-offer-2](https://i.imgur.com/MiEC7cW.png)
+![udemy-current-offer-2](https://merchant.linksynergy.com/fs/banners/39197/39197_11033.png)
 
 ### Learn your way up with the freshest skills on Udemy. Online courses start at \$10.99
 
@@ -36,7 +36,13 @@ End Date: 07/16/2020
 Region: Global (Esclude: Canada, France, Germany, Italy, Mexico, Poland, Russia, Spain, Turkey, UK, US)
 ![udemy-current-offer-4](https://merchant.linksynergy.com/fs/banners/39197/39197_11244.png)
 
+## LinkedIn Learning Offers
+
+## [Eduonix Offers][eduonix-link]
+
 ![linkedin-learning](https://i.imgur.com/twfsaUI.png)
+
+## Skillshare Offers
 
 ![skilshare-link](https://i.imgur.com/MiEC7cW.png)
 
