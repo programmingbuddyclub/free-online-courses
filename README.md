@@ -73,6 +73,8 @@ Region: Global (Esclude: Canada, France, Germany, Italy, Mexico, Poland, Russia,
 
 [![Skillshare Offer](https://i.imgur.com/MiEC7cW.png)][skilshare-link]
 
+_We are affiliated with the above learning platforms and may receive a commission if you purchase a course. This commission helps us provide free courses for many! So if you are buying something, please use our link and share knowledge with people who can't afford it._
+
 [programmingbuddyclub]: https://bit.ly/FreeOnlineCoursesGithub "Programming Buddy Club Free Online Courses"
 [programmingbuddyclub-facebook-page]: https://www.facebook.com/programmingbuddyclub "Programming Buddy Club Free Online Courses"
 [programmingbuddyclub-facebook-group]: https://www.facebook.com/groups/programmingbuddyclub "Programming Buddy Club Free Online Courses"
