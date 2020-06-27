@@ -22,34 +22,50 @@ Connect with us on other platforms
 ### New customer offer! Top courses from \$12.99 when you first visit Udemy
 
 Start Date: 07/02/2020
+
 End Date: 07/13/2020
+
 Region: Global (Exc: Japan)
+
 ![udemy-current-offer-1](https://merchant.linksynergy.com/fs/banners/39197/39197_11012.png)
 
 ### 24-Hour Flash Sale! Learn online for as little as \$10.99 now.
 
 Start Date: 07/03/2020
+
 End Date: 07/03/2020
+
 Region: Global (Exclude: Australia, Canada, France, Germany, Japan, Spain, UK, US)
+
 ![udemy-current-offer-2](https://merchant.linksynergy.com/fs/banners/39197/39197_11013.png)
 
 ### Learn your way up with the freshest skills on Udemy. Online courses start at \$10.99
 
 Start Date: 07/07/2020
+
 End Date: 07/09/2020
+
 Region: Global (Exclude: Japan, US)
+
 ![udemy-current-offer-3](https://merchant.linksynergy.com/fs/banners/39197/39197_11033.png)
 
 ### Three days to save — unlimited learning potential. Top courses starting at \$11.99.
 
 Start Date: 07/14/2020
+
 End Date: 07/16/2020
+
 Region: Global (Esclude: Canada, France, Germany, Italy, Mexico, Poland, Russia, Spain, Turkey, UK, US)
+
 ![udemy-current-offer-4](https://merchant.linksynergy.com/fs/banners/39197/39197_11244.png)
 
-## LinkedIn Learning Offers
-
 ## [Eduonix Offers][eduonix-link]
+
+![eduonix-lifetime](https://i.imgur.com/XPWIzRR.jpg)
+
+![eduonix-offerzone](https://i.imgur.com/3MHFLKv.jpg)
+
+## LinkedIn Learning Offers
 
 ![linkedin-learning](https://i.imgur.com/twfsaUI.png)
 
@@ -75,3 +91,5 @@ Region: Global (Esclude: Canada, France, Germany, Italy, Mexico, Poland, Russia,
 [udemy-current-offer-2]: https://click.linksynergy.com/fs-bin/click?id=i*IXi5qsT7c&offerid=624447.13394&type=3&subid=0 "24-Hour Flash Sale! Learn online for as little as $10.99 now"
 [udemy-current-offer-3]: https://click.linksynergy.com/fs-bin/click?id=i*IXi5qsT7c&offerid=624447.13398&type=3&subid=0 "Learn your way up with the freshest skills on Udemy. Online courses start at $10.99"
 [udemy-current-offer-4]: https://click.linksynergy.com/fs-bin/click?id=i*IXi5qsT7c&offerid=624447.13407&type=3&subid=0 "Three days to save — unlimited learning potential. Top courses starting at $11.99"
+[eduonix-lifetime]: https://www.eduonix.com/lifetime-learning-access/UHJvZHVjdC0xMjM0MjIw "Eduonix Lifetime access"
+[eduonix-offerzone]: https://www.eduonix.com/offer-zone/UHJvZHVjdC0xMjM0MjIw "Edonix Offers"
