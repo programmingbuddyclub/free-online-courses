@@ -6,6 +6,6 @@ Check out today's coupons here or our website [Programming Buddy Club]()
 
 ## LinkedIn Learning
 
-[https://a.impactradius-go.com/display-ad/8005-459102][linkedin-learning]
+[https://i.imgur.com/twfsaUI.png][linkedin-learning]
 
 [linkedin-learning]: https://bit.ly/FreeLinkedInLearning "LinkedIn Learning Offers"
