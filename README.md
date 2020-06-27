@@ -27,7 +27,7 @@ End Date: 07/13/2020
 
 Region: Global (Exc: Japan)
 
-![udemy-current-offer-1](https://merchant.linksynergy.com/fs/banners/39197/39197_11012.png)
+[![New customer offer! Top courses from $12.99 when you first visit Udemy](https://merchant.linksynergy.com/fs/banners/39197/39197_11012.png)][udemy-current-offer-1]
 
 ### 24-Hour Flash Sale! Learn online for as little as \$10.99 now.
 
