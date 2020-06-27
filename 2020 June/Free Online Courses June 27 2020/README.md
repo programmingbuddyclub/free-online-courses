@@ -203,4 +203,5 @@ Free Coupons for Today - Follow our Facebook Page and never miss a deal!
 [Python Bootcamp: Vom Anfänger zum Profi, inkl. Data Science| Programming Buddy Club | Free Udemy Course](https://www.programmingbuddy.club/2020/05/python-bootcamp-vom-anfanger-zum-profi.html)
 
 Come Join the Programming Buddy Club!
+
 Happy Learning!
