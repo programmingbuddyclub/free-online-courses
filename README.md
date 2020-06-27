@@ -37,7 +37,7 @@ End Date: 07/03/2020
 
 Region: Global (Exclude: Australia, Canada, France, Germany, Japan, Spain, UK, US)
 
-![udemy-current-offer-2](https://merchant.linksynergy.com/fs/banners/39197/39197_11013.png)
+[![4-Hour Flash Sale! Learn online for as little as $10.99 now](https://merchant.linksynergy.com/fs/banners/39197/39197_11013.png)][udemy-current-offer-2]
 
 ### Learn your way up with the freshest skills on Udemy. Online courses start at \$10.99
 
@@ -47,7 +47,7 @@ End Date: 07/09/2020
 
 Region: Global (Exclude: Japan, US)
 
-![udemy-current-offer-3](https://merchant.linksynergy.com/fs/banners/39197/39197_11033.png)
+[![Learn your way up with the freshest skills on Udemy. Online courses start at $10.99](https://merchant.linksynergy.com/fs/banners/39197/39197_11033.png)][udemy-current-offer-3]
 
 ### Three days to save — unlimited learning potential. Top courses starting at \$11.99.
 
@@ -57,21 +57,21 @@ End Date: 07/16/2020
 
 Region: Global (Esclude: Canada, France, Germany, Italy, Mexico, Poland, Russia, Spain, Turkey, UK, US)
 
-![udemy-current-offer-4](https://merchant.linksynergy.com/fs/banners/39197/39197_11244.png)
+[![Three days to save — unlimited learning potential. Top courses starting at $11.99.](https://merchant.linksynergy.com/fs/banners/39197/39197_11244.png)][udemy-current-offer-4]
 
 ## [Eduonix Offers][eduonix-link]
 
-![eduonix-lifetime](https://i.imgur.com/XPWIzRR.jpg)
+[![Eduonix Lifetime Offer](https://i.imgur.com/XPWIzRR.jpg)][eduonix-lifetime]
 
-![eduonix-offerzone](https://i.imgur.com/3MHFLKv.jpg)
+[![Eduonix Offer Zone](https://i.imgur.com/3MHFLKv.jpg)][eduonix-offerzone]
 
 ## LinkedIn Learning Offers
 
-![linkedin-learning](https://i.imgur.com/twfsaUI.png)
+[![LinkedIn Learning](https://i.imgur.com/twfsaUI.png)][linkedin-learning]
 
 ## Skillshare Offers
 
-![skilshare-link](https://i.imgur.com/MiEC7cW.png)
+[![Skillshare Offer](https://i.imgur.com/MiEC7cW.png)][skilshare-link]
 
 [programmingbuddyclub]: https://bit.ly/FreeOnlineCoursesGithub "Programming Buddy Club Free Online Courses"
 [programmingbuddyclub-facebook-page]: https://www.facebook.com/programmingbuddyclub "Programming Buddy Club Free Online Courses"
