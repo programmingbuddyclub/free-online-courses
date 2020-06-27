@@ -85,7 +85,6 @@ _We are affiliated with the above learning platforms and may receive a commissio
 [programmingbuddyclub-pinterest]: https://in.pinterest.com/programmingbuddyclub/ "Programming Buddy Club Free Online Courses"
 [programmingbuddyclub-tumblr]: https://programmingbuddyclub.tumblr.com/ "Programming Buddy Club Free Online Courses"
 [linkedin-learning]: https://bit.ly/FreeLinkedInLearning "LinkedIn Learning Offers"
-[today-courses]: https://github.com/programmingbuddyclub/free-online-courses/tree/master/2020%20June/Free%20Online%20Courses%20June%2027%202020 "Free Online Courses for Today"
 [udemy-link]: https://click.linksynergy.com/fs-bin/click?id=i*IXi5qsT7c&offerid=507388.13403&type=3&subid=0%22%3EDive%20into%20learning.%20Learn%20new%20skills%20for%20as%20little%20as%20$11.99.%3C/a%3E%3Cimg%20border=%220%22%20width=%221%22%20alt=%22%22%20height=%221%22%20src=%22https://ad.linksynergy.com/fs-bin/show?id=i*IXi5qsT7c&bids=507388.13403&type=3&subid=0 "Udemy Learning Platform"
 [eduonix-link]: https://www.eduonix.com/special-deals/UHJvZHVjdC0xMjM0MjIw?utm_source=homepage&utm_medium=direct&utm_campaign=month-end-homepage-btn-2019 "Eduonix Learning Platform"
 [skilshare-link]: https://bit.ly/FreeSkillshareLearning "Skillshare Learning Platform"
@@ -95,3 +94,4 @@ _We are affiliated with the above learning platforms and may receive a commissio
 [udemy-current-offer-4]: https://click.linksynergy.com/fs-bin/click?id=i*IXi5qsT7c&offerid=624447.13407&type=3&subid=0 "Three days to save — unlimited learning potential. Top courses starting at $11.99"
 [eduonix-lifetime]: https://www.eduonix.com/lifetime-learning-access/UHJvZHVjdC0xMjM0MjIw "Eduonix Lifetime access"
 [eduonix-offerzone]: https://www.eduonix.com/offer-zone/UHJvZHVjdC0xMjM0MjIw "Edonix Offers"
+[today-courses]: https://github.com/programmingbuddyclub/free-online-courses/tree/master/2020%20June/Free%20Online%20Courses%20June%2027%202020 "Free Online Courses for Today"
