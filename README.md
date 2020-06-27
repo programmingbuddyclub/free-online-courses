@@ -2,6 +2,17 @@ For Free Online courses - [Udemy][udemy-link], [Eduonix][eduonix-link], [LinkedI
 
 Check out today's coupons here or our website [Programming Buddy Club][programmingbuddyclub]
 
+Connect with us on other platforms
+
+- [Facebook Page][programmingbuddyclub-facebook-page]
+- [Facebook Group][programmingbuddyclub-facebook-group]
+- [Telegram Group][programmingbuddyclub-telegram]
+- [Whatsapp][programmingbuddyclub-whatsapp]
+- [Microsoft Teams][programmingbuddyclub-microsoft-teams]
+- [Instagram][programmingbuddyclub-instagram]
+- [Pinterest][programmingbuddyclub-pinterest]
+- [Tumblr][programmingbuddyclub-tumblr]
+
 [![Free Online Courses Today](https://i.imgur.com/aE2TLHF.png)][today-courses]
 
 # Current Offers:
@@ -20,7 +31,7 @@ Region: Global (Exc: Japan)
 Start Date: 07/03/2020
 End Date: 07/03/2020
 Region: Global (Exclude: Australia, Canada, France, Germany, Japan, Spain, UK, US)
-![udemy-current-offer-2](https://merchant.linksynergy.com/fs/banners/39197/39197_11033.png)
+![udemy-current-offer-2](https://merchant.linksynergy.com/fs/banners/39197/39197_11013.png)
 
 ### Learn your way up with the freshest skills on Udemy. Online courses start at \$10.99
 
@@ -47,6 +58,14 @@ Region: Global (Esclude: Canada, France, Germany, Italy, Mexico, Poland, Russia,
 ![skilshare-link](https://i.imgur.com/MiEC7cW.png)
 
 [programmingbuddyclub]: https://bit.ly/FreeOnlineCoursesGithub "Programming Buddy Club Free Online Courses"
+[programmingbuddyclub-facebook-page]: https://www.facebook.com/programmingbuddyclub "Programming Buddy Club Free Online Courses"
+[programmingbuddyclub-facebook-group]: https://www.facebook.com/groups/programmingbuddyclub "Programming Buddy Club Free Online Courses"
+[programmingbuddyclub-telegram]: http://bit.ly/2vaqNzS "Programming Buddy Club Free Online Courses"
+[programmingbuddyclub-whatsapp]: https://www.programmingbuddy.club/p/hatsapp.html "Programming Buddy Club Free Online Courses"
+[programmingbuddyclub-microsoft-teams]: https://teams.microsoft.com/l/team/19%3a72309b6a1dab4cf4ae6b21f7c4b06e1d%40thread.tacv2/conversations?groupId=5d56a4f2-3ed1-4a1c-b68e-6b2a7341052f&tenantId=dfacc48d-e6fb-4d98-8b3a-0548e8ef7144 "Programming Buddy Club Free Online Courses"
+[programmingbuddyclub-instagram]: https://www.instagram.com/programmingbuddyclub/ "Programming Buddy Club Free Online Courses"
+[programmingbuddyclub-pinterest]: https://in.pinterest.com/programmingbuddyclub/ "Programming Buddy Club Free Online Courses"
+[programmingbuddyclub-tumblr]: https://programmingbuddyclub.tumblr.com/ "Programming Buddy Club Free Online Courses"
 [linkedin-learning]: https://bit.ly/FreeLinkedInLearning "LinkedIn Learning Offers"
 [today-courses]: https://github.com/programmingbuddyclub/free-online-courses/tree/master/2020%20June/Free%20Online%20Courses%20June%2027%202020 "Free Online Courses for Today"
 [udemy-link]: https://click.linksynergy.com/fs-bin/click?id=i*IXi5qsT7c&offerid=507388.13403&type=3&subid=0%22%3EDive%20into%20learning.%20Learn%20new%20skills%20for%20as%20little%20as%20$11.99.%3C/a%3E%3Cimg%20border=%220%22%20width=%221%22%20alt=%22%22%20height=%221%22%20src=%22https://ad.linksynergy.com/fs-bin/show?id=i*IXi5qsT7c&bids=507388.13403&type=3&subid=0 "Udemy Learning Platform"
