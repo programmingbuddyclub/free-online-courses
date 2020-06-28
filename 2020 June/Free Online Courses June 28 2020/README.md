@@ -2,14 +2,14 @@ Free Coupons for Today - Follow our Facebook Page and never miss a deal!
 
 [Check out our website for regular updates](https://www.programmingbuddy.club/)
 
-< align="center">
-<br>
-<a href="https://bit.ly/FreeOnlineCoursesGithub" target="_blank" title="Programming Buddy Club Free Online Courses">
-<img src="https://i.imgur.com/aE2TLHF.png" alt="Programming Buddy Club Free Online Courses">
-</a>
-<br>
-<br>
-</
+<p align="center">
+  <br>
+  <a href="https://bit.ly/FreeOnlineCoursesGithub" target="_blank" title="Programming Buddy Club Free Online Courses">
+    <img src="https://i.imgur.com/aE2TLHF.png" alt="Programming Buddy Club Free Online Courses">
+  </a>
+  <br>
+  <br>
+</p>
 
 [WiFi Hacking Cyber Security Guide| Programming Buddy Club | Free Udemy Course](https://www.programmingbuddy.club/2020/06/wifi-hacking-cyber-security-guide.html)
 
