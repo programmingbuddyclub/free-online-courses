@@ -1,6 +1,6 @@
 Free Coupons for Today - Follow our Facebook Page and never miss a deal!
 
-[Check out our website for regular updates](https://www.programmingbuddy.club/)
+[Check out our website for regular updates][programmingbuddyclub]
 
 <p align=center>
   <br>
