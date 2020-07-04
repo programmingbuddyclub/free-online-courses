@@ -94,4 +94,4 @@ _We are affiliated with the above learning platforms and may receive a commissio
 [udemy-current-offer-4]: https://click.linksynergy.com/fs-bin/click?id=i*IXi5qsT7c&offerid=624447.13407&type=3&subid=0 "Three days to save — unlimited learning potential. Top courses starting at $11.99"
 [eduonix-lifetime]: https://www.eduonix.com/lifetime-learning-access/UHJvZHVjdC0xMjM0MjIw "Eduonix Lifetime access"
 [eduonix-offerzone]: https://www.eduonix.com/offer-zone/UHJvZHVjdC0xMjM0MjIw "Edonix Offers"
-[today-courses]: https://github.com/programmingbuddyclub/free-online-courses/tree/master/2020%20July/Free%20Online%20Courses%20July%203%202020 "Free Online Courses for Today"
+[today-courses]: https://github.com/programmingbuddyclub/free-online-courses/tree/master/2020%20July/Free%20Online%20Courses%20July%204%202020 "Free Online Courses for Today"
